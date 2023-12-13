@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: milkyway971/myhello:5
+        image: milkyway971/myhello:6
         ports:
         - containerPort: 8080
